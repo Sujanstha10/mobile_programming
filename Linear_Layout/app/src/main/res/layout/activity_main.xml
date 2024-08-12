@@ -6,16 +6,16 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="TextView1" />
+        android:text="This is TextView1" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="TextView2" />
+        android:text="This is TextView2" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="TextView3" />
+        android:text="This is TextView3" />
 
 </LinearLayout>
