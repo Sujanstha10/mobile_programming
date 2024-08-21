@@ -1,0 +1,7 @@
+
+<resources>
+<string-array name="programs">
+    <item>BCA</item>
+    <item>CSIT</item>
+</string-array>
+</resources>
